@@ -42,7 +42,7 @@
 ---
 
 ### Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=N0teveryth1ng&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
