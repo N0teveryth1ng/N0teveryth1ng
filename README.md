@@ -1,13 +1,34 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&width=435&lines=Hi+there!+I'm+Soham;I+love+Data+Science+%F0%9F%9A%80;Python+%7C+SQL+%7C+ML+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+YourName;Data+Science+%7C+Python+%7C+ML+Learner;Looking+for+Research+Internships" alt="Typing SVG" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🔥 My Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noteveryth1ng&show_icons=true&theme=dark)
 
 <!--
 **N0teveryth1ng/N0teveryth1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
