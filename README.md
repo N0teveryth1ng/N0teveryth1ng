@@ -31,6 +31,11 @@
 
 
 
+# graph:
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=N0teveryth1ng&theme=react-dark)
+
+
 
 <!--
 **N0teveryth1ng/N0teveryth1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
