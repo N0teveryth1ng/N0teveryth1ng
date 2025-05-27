@@ -14,6 +14,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 ---
@@ -29,12 +33,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohamdas2071/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/N0teveryth1ng)
 
+---
 
-
-# graph:
-
+# Graph:
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=N0teveryth1ng&theme=react-dark)
 
+
+---
+
+### Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
