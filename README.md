@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&width=435&lines=Hi+there!+I'm+Soham;I+love+Data+Science+%F0%9F%9A%80;Python+%7C+SQL+%7C+ML+Enthusiast)](https://git.io/typing-svg)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noteveryth1ng&show_icons=true&theme=dark)
 
