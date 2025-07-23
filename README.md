@@ -1,6 +1,7 @@
 ## Greetings 👋
 ### 👋 About Me
-I'm an aspiring Data Learner with hands-on experience in Python, Pandas, SQL, and basic Machine Learning. I’ve built projects like a Loan Prediction Model, COVID-19 Analysis Dashboard, and an E-commerce Dashboard. I'm actively seeking internships in Data Science or related fields.
+I'm an aspiring Data Learner with hands-on experience in Python, Pandas, SQL,  Machine Learning. I'm actively seeking internships in Data Science or related fields.
+
 
 
 <p align="center">
