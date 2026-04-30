@@ -1,7 +1,6 @@
 ## Greetings 👋
 ### 👋 About Me
-I'm an aspiring Data Learner with hands-on experience in Python, Pandas, SQL,  Machine Learning. I'm actively seeking internships in Data Science or related fields.
-
+I'm a HUMAN from EARTH🌍
 
 
 <p align="center">
