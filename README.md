@@ -1,54 +1,86 @@
-## Greetings 👋
-### 👋 About Me
-I'm a HUMAN from EARTH🌍
+<div align="center">
 
+# Soham Das
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Soham;Data+Science+%7C+Python+%7C+ML+Learner;Looking+for+Research+Internships" alt="Typing SVG" />
-</p>
+**Backend Engineer** · India · [@GameGenesis](https://github.com/N0teveryth1ng)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=500&lines=Backend+Engineer+%40+GameGenesis;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
 
-
-
-
+</div>
 
 ---
 
-### 🔥 My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&theme=radical)](https://git.io/streak-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&theme=radical)
+### What I do
+
+At **GameGenesis** — maintaining internal applications and APIs, handling database architecture, making sure systems stay reliable.
+Small team. Full ownership. No one's coming to fix it for you.
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohamdas2071/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/N0teveryth1ng)
+### Stack
+
+```
+Primary     Python
+Backend     FastAPI · Flask
+Database    PostgreSQL · MongoDB · Neon
+Infra       Docker · Kubernetes
+Tools       Git · GitHub
+```
 
 ---
 
-# Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0teveryth1ng&theme=react-dark)
+### How I work
 
+Don't jump between stacks chasing trends.
+Go deep, understand it properly, then move forward.
+
+Side projects are where I break things on purpose — so I don't break them at work.
 
 ---
 
-### Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=N0teveryth1ng&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+### Outside the terminal
 
+Gaming · Music · Business case studies
+*(how companies are built, why they fail, what actually works)*
 
-<!--
-**N0teveryth1ng/N0teveryth1ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&theme=tokyonight&hide_border=true&background=0d1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=c9d1d9)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0teveryth1ng&theme=react-dark&hide_border=true&color=F5A623&line=F5A623&point=ffffff)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=N0teveryth1ng&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### Currently
+
+```
+▸ BSc IT @ Techno India University
+▸ Backend Engineer @ GameGenesis
+▸ Open to interesting backend opportunities
+```
+
+---
+
+> *"Small studio means you own what you build."*
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohamdas2071/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/N0teveryth1ng)
+
+</div>
