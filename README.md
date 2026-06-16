@@ -67,7 +67,7 @@ Gaming · Music · Business case studies
 
 ```
 ▸ Backend Engineer @ GameGenesis
-▸ Open to interesting backend opportunities
+▸ Open to interesting opportunities
 ```
 
 ---
