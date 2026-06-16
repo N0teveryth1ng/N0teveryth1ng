@@ -66,7 +66,6 @@ Gaming · Music · Business case studies
 ### Currently
 
 ```
-▸ BSc IT @ Techno India University
 ▸ Backend Engineer @ GameGenesis
 ▸ Open to interesting backend opportunities
 ```
