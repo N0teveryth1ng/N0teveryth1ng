@@ -66,13 +66,12 @@ Gaming · Music · Business case studies
 ### Currently
 
 ```
-▸ Backend Engineer @ GameGenesis
+▸ Backend Engineer 
 ▸ Open to interesting opportunities
 ```
 
 ---
 
-> *"Small studio means you own what you build."*
 
 ---
 
