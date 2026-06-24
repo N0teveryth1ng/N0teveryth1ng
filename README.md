@@ -2,7 +2,7 @@
 
 # Soham Das
 
-**Backend Engineer** · India · [@GameGenesis](https://github.com/N0teveryth1ng)
+**Backend Engineer** · India · (https://github.com/N0teveryth1ng)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=500&lines=Backend+Engineer+%40+GameGenesis;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-### What I do
+### What I did
 
 At **GameGenesis** — maintaining internal applications and APIs, handling database architecture, making sure systems stay reliable.
 Small team. Full ownership. No one's coming to fix it for you.
