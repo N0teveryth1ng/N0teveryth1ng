@@ -23,7 +23,7 @@ Small team. Full ownership. No one's coming to fix it for you.
 Primary     Python
 Backend     FastAPI · Flask
 Database    PostgreSQL · MongoDB · Neon
-Infra       Docker · Kubernetes
+Infra       Docker · Kubernetes · Kafka
 Tools       Git · GitHub
 ```
 
