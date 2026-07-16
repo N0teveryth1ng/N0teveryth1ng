@@ -10,15 +10,19 @@
 
 
 
+
+
 <div align="center">
+
+<!-- put your video/banner embed here -->
+
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2800&pause=1200&color=FF2079&center=true&vCenter=true&width=650&lines=%E3%82%BD%E3%83%8F%E3%83%A0+%E3%83%80%E3%82%B9+//+SOHAM+DAS;%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89+//+BACKEND+ENGINEER;%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%A8%AD%E8%A8%88%E8%80%85+//+SYSTEM+DESIGNER" alt="Typing SVG" />
 
-<sub>拠点：インド　IND // NEW_DELHI_SECTOR</sub>　·　[<sub>接続 :: github.com/N0teveryth1ng</sub>](https://github.com/N0teveryth1ng)
+<sub>INDIA　//　BACKEND_DEV </sub>
 
-```
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:B026FF,100:00E5FF&height=3&width=800" />
 
 </div>
 
@@ -28,7 +32,7 @@
 <tr>
 <td width="60%" valign="top">
 
-### 起動シーケンス // BOOT_SEQUENCE
+### ⚡ BOOT_SEQUENCE <sub>起動</sub>
 
 ```yaml
 > initializing soham_das.exe
@@ -43,73 +47,63 @@ strength   : cache_hits
 </td>
 <td width="40%" valign="top">
 
-### ステータス // STATUS
+### 🛰️ STATUS <sub>状態</sub>
 
-```
-[ ONLINE  ]  core systems
-[ STABLE  ]  db layer
-[ ARMED   ]  ci/cd pipeline
-[ SEALED  ]  legacy code
-```
+![](https://img.shields.io/badge/CORE_SYSTEMS-ONLINE-00E5FF?style=flat-square&labelColor=0A0A0F)
+![](https://img.shields.io/badge/DB_LAYER-STABLE-B026FF?style=flat-square&labelColor=0A0A0F)
+![](https://img.shields.io/badge/CI/CD-ARMED-FF2079?style=flat-square&labelColor=0A0A0F)
+![](https://img.shields.io/badge/LEGACY_CODE-SEALED-FFB800?style=flat-square&labelColor=0A0A0F)
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:B026FF,100:FF2079&height=2&width=800" />
 
-## 稼働記録 // OPERATION LOG
+## 🗂️ OPERATION LOG <sub>記録</sub>
 
-> **GameGenesis** — 完了 `[COMPLETED]`
+> **GameGenesis** — `[COMPLETED]`
 > Backend engineer on a small team, full ownership of internal apps, APIs and database architecture. Kept systems standing when nobody else was watching. No one's coming to fix it for you — so it doesn't break.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:00E5FF,100:B026FF&height=2&width=800" />
 
-## 武装 // LOADOUT
+## 🧬 LOADOUT <sub>武装</sub>
 
 <div align="center">
 
-| 言語 LANG | フレームワーク FRAMEWORK | データ層 DATA | インフラ INFRA |
-|:---:|:---:|:---:|:---:|
-| `Python` | `FastAPI` `Flask` | `PostgreSQL` `MongoDB` `Neon` | `Docker` `Kubernetes` `Kafka` |
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,docker,kubernetes,kafka,git,github&theme=dark" />
 
 </div>
 
-```
-◢◤ TOOLS ◢◤   Git · GitHub
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF2079,100:00E5FF&height=2&width=800" />
 
-<br>
-
-## 行動指針 // DIRECTIVES
+## 📜 DIRECTIVES <sub>指針</sub>
 
 ```
-01 :: 深く行く、流行を追わない。 → go deep, don't chase trends
-02 :: サイドプロジェクトは実験場。 → side projects are the blast zone
-        壊すならここで、本番では壊さない。 → break here, not in prod
-03 :: キャッシュヒット ＞ すべて。 → cache hits > everything
-        ネットワーク分断は敵だ。 → network partitions are the enemy
+01 :: go deep, don't chase trends
+02 :: side projects are the blast zone — break here, not in prod
+03 :: cache hits > everything — network partitions are the enemy
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:FF2079,100:B026FF&height=2&width=800" />
 
-## オフライン // OFFLINE_MODE
+## 🎮 OFFLINE_MODE <sub>非稼働</sub>
 
-`ゲーム GAMING`　·　`音楽 MUSIC`　·　`経営分析 BUSINESS CASE STUDIES`
+`GAMING`　·　`MUSIC`　·　`BUSINESS CASE STUDIES`
 
-<sub>企業がどう作られ、なぜ失敗し、何が本当に機能するのか — how companies are built, why they fail, what actually works</sub>
+<sub>how companies are built, why they fail, what actually works</sub>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:B026FF,100:00E5FF&height=2&width=800" />
 
-## 解析 // TELEMETRY
+## 📡 TELEMETRY <sub>解析</sub>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=FF2079)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=B026FF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FF2079&text_color=E0E0E0&langs_count=8)
 
-![Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=FF2079&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=6b6b7b)
+![Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=B026FF&fire=FF2079&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=6b6b7b)
 
 </div>
 
@@ -117,10 +111,8 @@ strength   : cache_hits
 
 <div align="center">
 
-```
-◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:B026FF,100:FF2079&height=3&width=800" />
 
-<sub>接続終了 // CONNECTION TERMINATED　—　signal stable, standing by</sub>
+<sub>CONNECTION TERMINATED　—　signal stable, standing by</sub>
 
 </div>
