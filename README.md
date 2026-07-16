@@ -1,84 +1,126 @@
+<img width="1000" height="479" alt="Image" src="https://github.com/user-attachments/assets/636bda98-fb51-4449-a719-ed5ed3f887d4" />
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
-# Soham Das
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2800&pause=1200&color=FF2079&center=true&vCenter=true&width=650&lines=%E3%82%BD%E3%83%8F%E3%83%A0+%E3%83%80%E3%82%B9+//+SOHAM+DAS;%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89+//+BACKEND+ENGINEER;%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%A8%AD%E8%A8%88%E8%80%85+//+SYSTEM+DESIGNER" alt="Typing SVG" />
 
-**Backend Engineer** · India · (https://github.com/N0teveryth1ng)
+<sub>拠点：インド　IND // NEW_DELHI_SECTOR</sub>　·　[<sub>接続 :: github.com/N0teveryth1ng</sub>](https://github.com/N0teveryth1ng)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F5A623&center=true&vCenter=true&width=500&lines=Backend+Engineer+;Python+%7C+FastAPI+%7C+Flask;PostgreSQL+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
+```
+◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+```
 
 </div>
 
----
+<br>
 
-### What I did
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-At **GameGenesis** — maintaining internal applications and APIs, handling database architecture, making sure systems stay reliable.
-Small team. Full ownership. No one's coming to fix it for you.
+### 起動シーケンス // BOOT_SEQUENCE
 
----
+```yaml
+> initializing soham_das.exe
+identity   : backend engineer
+build_year : ████ (redacted)
+uptime     : 99.97%
+directive  : systems that survive contact with production
+weakness   : network_partitions
+strength   : cache_hits
+```
 
-### Stack
+</td>
+<td width="40%" valign="top">
+
+### ステータス // STATUS
 
 ```
-Primary     Python
-Backend     FastAPI · Flask
-Database    PostgreSQL · MongoDB · Neon
-Infra       Docker · Kubernetes · Kafka
-Tools       Git · GitHub
+[ ONLINE  ]  core systems
+[ STABLE  ]  db layer
+[ ARMED   ]  ci/cd pipeline
+[ SEALED  ]  legacy code
 ```
 
----
+</td>
+</tr>
+</table>
 
-### How I work
+<br>
 
-Don't jump between stacks chasing trends.
-Go deep, understand it properly, then move forward.
+## 稼働記録 // OPERATION LOG
 
-Side projects are where I break things on purpose — so I don't break them at work.
+> **GameGenesis** — 完了 `[COMPLETED]`
+> Backend engineer on a small team, full ownership of internal apps, APIs and database architecture. Kept systems standing when nobody else was watching. No one's coming to fix it for you — so it doesn't break.
 
----
+<br>
 
-### Outside the terminal
-
-Gaming · Music · Business case studies
-*(how companies are built, why they fail, what actually works)*
-
----
-
-### Stats
+## 武装 // LOADOUT
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F5A623&icon_color=F5A623&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&theme=tokyonight&hide_border=true&background=0d1117&ring=F5A623&fire=F5A623&currStreakLabel=F5A623)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=c9d1d9)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0teveryth1ng&theme=react-dark&hide_border=true&color=F5A623&line=F5A623&point=ffffff)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=N0teveryth1ng&theme=algolia&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+| 言語 LANG | フレームワーク FRAMEWORK | データ層 DATA | インフラ INFRA |
+|:---:|:---:|:---:|:---:|
+| `Python` | `FastAPI` `Flask` | `PostgreSQL` `MongoDB` `Neon` | `Docker` `Kubernetes` `Kafka` |
 
 </div>
 
----
-
-### Currently
-
 ```
-▸ Backend Engineer 
-▸ Open to interesting opportunities
+◢◤ TOOLS ◢◤   Git · GitHub
 ```
 
----
+<br>
 
+## 行動指針 // DIRECTIVES
 
----
+```
+01 :: 深く行く、流行を追わない。 → go deep, don't chase trends
+02 :: サイドプロジェクトは実験場。 → side projects are the blast zone
+        壊すならここで、本番では壊さない。 → break here, not in prod
+03 :: キャッシュヒット ＞ すべて。 → cache hits > everything
+        ネットワーク分断は敵だ。 → network partitions are the enemy
+```
+
+<br>
+
+## オフライン // OFFLINE_MODE
+
+`ゲーム GAMING`　·　`音楽 MUSIC`　·　`経営分析 BUSINESS CASE STUDIES`
+
+<sub>企業がどう作られ、なぜ失敗し、何が本当に機能するのか — how companies are built, why they fail, what actually works</sub>
+
+<br>
+
+## 解析 // TELEMETRY
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sohamdas2071/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/N0teveryth1ng)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=FF2079)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FF2079&text_color=E0E0E0&langs_count=8)
+
+![Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=FF2079&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=6b6b7b)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+```
+
+<sub>接続終了 // CONNECTION TERMINATED　—　signal stable, standing by</sub>
 
 </div>
