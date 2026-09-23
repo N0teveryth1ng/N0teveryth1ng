@@ -104,11 +104,15 @@ legacy_code   ..... sealed
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=B026FF)
+<img src="https://github-stats-extended.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=B026FF" />
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FF2079&text_color=E0E0E0&langs_count=8)
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FF2079&text_color=E0E0E0&langs_count=8" />
 
-![Streak](https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=B026FF&fire=FF2079&currStreakLabel=00E5FF&sideLabels=E0E0E0&dates=6b6b7b)
+<br><br>
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=B026FF&fire=FF2079&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&border_radius=8" alt="GitHub Streak" />
+</a>
 
 </div>
 
