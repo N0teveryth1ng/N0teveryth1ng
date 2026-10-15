@@ -22,7 +22,9 @@ correctness, observability, and clean architecture.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,ts,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,git,github&theme=dark" />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain" />
 
 </div>
 
