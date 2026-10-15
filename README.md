@@ -12,11 +12,11 @@
 ## About
 
 Backend engineer based in India. I build and operate systems that hold up under
-pressure — APIs, event pipelines, and AI-assisted tooling — with a bias toward
+pressure: APIs, event pipelines, and applied AI tooling, with a bias toward
 correctness, observability, and clean architecture.
 
 - Focus: **backend systems** and **applied AI / agentic pipelines**.
-- Principle: deterministic code where it matters, model-driven where it helps.
+- Principle: deterministic code where it matters, model driven where it helps.
 
 ## Stack
 
@@ -30,14 +30,11 @@ correctness, observability, and clean architecture.
 
 ## Featured Projects
 
-**[Apex Ledger](https://github.com/N0teveryth1ng/Apex_Ledger)** — Secure peer-to-peer payment wallet (FastAPI)
-Real-time transfers with JWT auth, Redis caching + circuit-breaker fallback, idempotency keys, containerized and CI-tested.
+**[Apex Ledger](https://github.com/N0teveryth1ng/Apex_Ledger)**: secure peer to peer payment wallet (FastAPI) with real time transfers, JWT auth, Redis caching with circuit breaker fallback, idempotency keys, Docker, and CI.
 
-**[Gen Argus](https://github.com/N0teveryth1ng/gen_argus)** — Real-time telemetry pipeline ([live demo](https://gen-argus.onrender.com/dashboard))
-Validated ingestion API → Kafka → batched Postgres consumer → live Chart.js dashboard. Deployed web + worker, no local machine required.
+**[Gen Argus](https://github.com/N0teveryth1ng/gen_argus)**: real time telemetry pipeline (Flask, Kafka, Postgres) with a validated ingestion API, batched Postgres consumer, and live Chart.js dashboard. [Live demo](https://gen-argus.onrender.com/dashboard).
 
-**[Atlas_OPS](https://github.com/N0teveryth1ng/Atlas_OPS)** — Precision job-matching pipeline (Python)
-Deterministic hard filters + LLM evaluator with an adversarial verifier, ranked and explainable end to end.
+**[Atlas_OPS](https://github.com/N0teveryth1ng/Atlas_OPS)**: precision job matching pipeline (Python) using deterministic hard filters and an LLM evaluator with an adversarial verifier, ranked and explainable end to end.
 
 ## GitHub
 
