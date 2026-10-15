@@ -1,128 +1,49 @@
-<img width="1440" height="800" alt="Image" src="https://github.com/user-attachments/assets/b4305ae5-b02d-40e0-8e99-bd5b62ea3371" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
-<!-- put your video/banner embed here -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,100:1F6FEB&height=170&section=header&text=Soham%20Das&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Engineer&descAlignY=58" width="100%" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3200&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Backend+Engineer;Distributed+systems+%26+event+pipelines;Applied+AI+%2F+agentic+tooling" alt="Soham Das" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2800&pause=1200&color=FF2079&center=true&vCenter=true&width=650&lines=%E3%82%BD%E3%83%8F%E3%83%A0+%E3%83%80%E3%82%B9+//+SOHAM+DAS;%E3%83%90%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%89+//+BACKEND+ENGINEER;%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%A8%AD%E8%A8%88%E8%80%85+//+SYSTEM+DESIGNER" alt="Typing SVG" />
-
-<sub>INDIA　//　BACKEND_SECTOR</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:B026FF,100:00E5FF&height=3&width=800" />
+<a href="https://sohamfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sohamdas2071/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
-<br>
+## About
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+Backend engineer based in India. I build and operate systems that hold up under
+pressure — APIs, event pipelines, and AI-assisted tooling — with a bias toward
+correctness, observability, and clean architecture.
 
-### [ BOOT_SEQUENCE 起動 ]
+- Focus: **backend systems** and **applied AI / agentic pipelines**.
+- Principle: deterministic code where it matters, model-driven where it helps.
 
-```yaml
-> initializing soham_das.exe
-identity   : backend engineer
-build_year : ████ (redacted)
-uptime     : 99.97%
-directive  : systems that survive contact with production
-weakness   : network_partitions
-strength   : cache_hits
-```
-
-</td>
-<td width="40%" valign="top">
-
-### [ STATUS 状態 ]
-
-```
-core_systems  ..... online
-db_layer      ..... stable
-ci_cd         ..... armed
-legacy_code   ..... sealed
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:B026FF,100:FF2079&height=2&width=800" />
-
-## [ OPERATION_LOG 記録 ]
-
-> **GameGenesis** — `[COMPLETED]`
-> Backend engineer on a small team, full ownership of internal apps, APIs and database architecture. Kept systems standing when nobody else was watching. No one's coming to fix it for you — so it doesn't break.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:00E5FF,100:B026FF&height=2&width=800" />
-
-## [ LOADOUT 武装 ]
+## Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,docker,kubernetes,kafka,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,git,github&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B026FF,50:FF2079,100:00E5FF&height=2&width=800" />
+## Featured Projects
 
-## [ DIRECTIVES 指針 ]
+**[Apex Ledger](https://github.com/N0teveryth1ng/Apex_Ledger)** — Secure peer-to-peer payment wallet (FastAPI)
+Real-time transfers with JWT auth, Redis caching + circuit-breaker fallback, idempotency keys, containerized and CI-tested.
 
-```
-01 :: go deep, don't chase trends
-02 :: side projects are the blast zone — break here, not in prod
-03 :: cache hits > everything — network partitions are the enemy
-```
+**[Gen Argus](https://github.com/N0teveryth1ng/gen_argus)** — Real-time telemetry pipeline ([live demo](https://gen-argus.onrender.com/dashboard))
+Validated ingestion API → Kafka → batched Postgres consumer → live Chart.js dashboard. Deployed web + worker, no local machine required.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:FF2079,100:B026FF&height=2&width=800" />
+**[Atlas_OPS](https://github.com/N0teveryth1ng/Atlas_OPS)** — Precision job-matching pipeline (Python)
+Deterministic hard filters + LLM evaluator with an adversarial verifier, ranked and explainable end to end.
 
-## [ OFFLINE_MODE 非稼働 ]
-
-`GAMING`　·　`MUSIC`　·　`BUSINESS CASE STUDIES`
-
-<sub>how companies are built, why they fail, what actually works</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2079,50:B026FF,100:00E5FF&height=2&width=800" />
-
-## [ TELEMETRY 解析 ]
+## GitHub
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=FF2079&icon_color=00E5FF&text_color=E0E0E0&ring_color=B026FF" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=FF2079&text_color=E0E0E0&langs_count=8" />
-
-<br><br>
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=N0teveryth1ng&hide_border=true&background=0A0A0F&ring=B026FF&fire=FF2079&currStreakNum=00E5FF&currStreakLabel=00E5FF&sideNums=E0E0E0&sideLabels=E0E0E0&dates=E0E0E0&border_radius=8" alt="GitHub Streak" />
-</a>
+<img src="https://github-stats-extended.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=1F6FEB&icon_color=1F6FEB&text_color=E6EDF3&ring_color=1F6FEB" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=1F6FEB&text_color=E6EDF3&langs_count=8" height="165" />
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:B026FF,100:FF2079&height=3&width=800" />
-
-<sub>CONNECTION TERMINATED　—　signal stable, standing by</sub>
-
-</div>
+<div align="center"><sub>India · open to backend & systems work</sub></div>
