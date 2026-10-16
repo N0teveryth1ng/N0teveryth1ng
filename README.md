@@ -41,6 +41,7 @@ correctness, observability, and clean architecture.
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=N0teveryth1ng&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=1F6FEB&icon_color=1F6FEB&text_color=E6EDF3&ring_color=1F6FEB" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=N0teveryth1ng&background=0A0A0F&title=1F6FEB&currStreakLabel=1F6FEB&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&border=0A0A0F&hide_border=true" height="165" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=N0teveryth1ng&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=1F6FEB&text_color=E6EDF3&langs_count=8" height="165" />
 
 </div>
