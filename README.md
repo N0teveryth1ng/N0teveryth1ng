@@ -1,11 +1,10 @@
+<img width="1200" height="400" alt="banner-green" src="https://github.com/user-attachments/assets/6b916f61-34df-4115-82d1-88949d28cf6a" />
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,100:1F6FEB&height=170&section=header&text=Soham%20Das&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Backend%20Engineer&descAlignY=58" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3200&pause=1000&color=1F6FEB&center=true&vCenter=true&width=650&lines=Backend+Engineer;Distributed+systems+%26+event+pipelines;Applied+AI+%2F+agentic+tooling" alt="Soham Das" />
-
-<a href="https://sohamfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sohamdas2071/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-04122b?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
