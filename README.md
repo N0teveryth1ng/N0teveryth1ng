@@ -10,30 +10,38 @@
 
 ## About
 
-Backend engineer based in India. I build and operate systems that hold up under
-pressure: APIs, event pipelines, and applied AI tooling, with a bias toward
-correctness, observability, and clean architecture.
+Backend engineer based in India. I build and operate systems that hold up
+under pressure: APIs, event pipelines and applied AI tooling, with a bias
+toward correctness, observability and clean architecture.
 
-- Focus: **backend systems** and **applied AI / agentic pipelines**.
-- Principle: deterministic code where it matters, model driven where it helps.
+**Focus** &nbsp; backend systems · agentic AI pipelines · distributed systems  
+**Principle** &nbsp; deterministic code where it matters, model-driven where it helps
 
 ## Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mongodb,redis,kafka,docker,kubernetes,git,github&theme=dark" />
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain" />
-
-</div>
+| | |
+|---|---|
+| **Languages & APIs** | Python · FastAPI · Flask |
+| **Data & messaging** | PostgreSQL · MongoDB · Redis · Kafka |
+| **Infra** | Docker · Kubernetes · Git · GitHub Actions |
+| **AI** | LangChain · LLM evaluators · agentic pipelines |
 
 ## Featured Projects
 
-**[Apex Ledger](https://github.com/N0teveryth1ng/Apex_Ledger)**: secure peer to peer payment wallet (FastAPI) with real time transfers, JWT auth, Redis caching with circuit breaker fallback, idempotency keys, Docker, and CI.
+### [Apex Ledger](https://github.com/N0teveryth1ng/Apex_Ledger)
+Secure peer-to-peer payment wallet with real-time transfers.  
+`FastAPI` `Redis` `Docker` `CI`  
+JWT auth · idempotency keys so retries never double-charge · Redis caching with circuit-breaker fallback
 
-**[Gen Argus](https://github.com/N0teveryth1ng/gen_argus)**: real time telemetry pipeline (Flask, Kafka, Postgres) with a validated ingestion API, batched Postgres consumer, and live Chart.js dashboard. [Live demo](https://gen-argus.onrender.com/dashboard).
+### [Gen Argus](https://github.com/N0teveryth1ng/gen_argus) · [Live demo](https://gen-argus.onrender.com/performance)
+Real-time telemetry pipeline with a live dashboard.  
+`Flask` `Kafka` `PostgreSQL` `Chart.js`  
+Validated ingestion API · batched Postgres consumer · live charts
 
-**[Atlas_OPS](https://github.com/N0teveryth1ng/Atlas_OPS)**: precision job matching pipeline (Python) using deterministic hard filters and an LLM evaluator with an adversarial verifier, ranked and explainable end to end.
+### [Atlas OPS](https://github.com/N0teveryth1ng/Atlas_OPS)
+Precision job-matching pipeline, ranked and explainable end to end.  
+`Python` `LLM`  
+Deterministic hard filters first · LLM evaluator second · adversarial verifier to catch bad matches
 
 ## GitHub
 
